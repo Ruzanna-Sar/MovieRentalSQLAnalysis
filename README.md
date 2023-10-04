@@ -19,7 +19,7 @@ For this project the following tools were used:
 
 ## Data
 The following [Dataset](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) was provided:
-### Fact Table:
+#### Fact Table:
 * Rental
 ### Dimension tables:
 * Payment
