@@ -18,8 +18,7 @@ For this project the following tools were used:
 * Tableau for visualisation
 
 ## Data
-[Rockbuster Dataset](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
-The following Data Set was provided:
+The following [Dataset](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) was provided:
 ### Fact Table:
 * Rental
 ### Dimension tables:
