@@ -21,9 +21,9 @@ For this project the following tools were usd:
 ## Data
 [Rockbuster Dataset](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 The following Data Set was provided:
-Fact Table:
+### Fact Table:
 * Rental
-Dimension tables:
+### Dimension tables:
 * Payment
 * Inventory
 * Film
