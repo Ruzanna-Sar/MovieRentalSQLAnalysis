@@ -1,7 +1,12 @@
 # MovieRentalSQLAnalysis
+Rockbuster Stealth LLC is a movie rental company that used to have stores around the
+world. Facing stiff competition from streaming services the Rockbuster Stealth
+management team is planning to use its existing movie licenses to
+launch an online video rental service in order to stay competitive.
 ## Objective
-Rockbuster Stealth LLC is movie rental company. The aim of this project was to analyze movie rental database to maximize profit by using SQL queries and Tableau for visualisation.
-The project addresses the following practical questions that a business might have.
+The aim of this project was to assist Rockbuster Stealth’s business intelligence
+department to help with the launch strategy for the new online video service.
+The following practical questions were addressed:
 * Which movies contributed the most/least to revenue gain?
 * What was the average rental duration for all videos?
 * Which countries are Rockbuster customers based in?
