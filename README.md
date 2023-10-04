@@ -35,4 +35,3 @@ The following Data Set was provided:
 ## Tableau Storyboard
 You can find the Tableau Storyboard for this project [here](https://public.tableau.com/app/profile/ruzanna.sargsyan/viz/Rockbuster_movie_rental_final/Story1?publish=yes![image](https://github.com/Ruzanna-Sar/MovieRentalSQLAnalysis/assets/145699655/ee99eaa4-cefe-4f3a-a75b-0a9acef9703d)
 ).
-
