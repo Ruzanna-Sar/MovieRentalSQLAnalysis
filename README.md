@@ -12,3 +12,7 @@ The project addresses the following practical questions that a business might ha
 For this project the following tools were usd:
 SQL quiries,
 Tableau for visualisation
+
+## Tableau presentation
+You can find the Tableau presentation for this project [here](https://public.tableau.com/app/profile/ruzanna.sargsyan/viz/Rockbuster_movie_rental_final/Story1?publish=yes![image](https://github.com/Ruzanna-Sar/MovieRentalSQLAnalysis/assets/145699655/ee99eaa4-cefe-4f3a-a75b-0a9acef9703d)
+).
