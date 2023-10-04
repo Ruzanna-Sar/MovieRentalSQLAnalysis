@@ -7,3 +7,8 @@ The project addresses the following practical questions that a business might ha
 ● Which countries are Rockbuster customers based in?
 ● Where are customers with a high lifetime value based?
 ● Do sales figures vary between geographic regions?
+
+## Tools
+For this project the following tools were usd:
+SQL quiries,
+Tableau for visualisation
