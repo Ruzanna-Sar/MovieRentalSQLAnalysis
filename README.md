@@ -13,7 +13,7 @@ The following practical questions were addressed:
 * Do sales figures vary between geographic regions?
 
 ## Tools
-For this project the following tools were usd:
+For this project the following tools were used:
 * SQL quiries,
 * Tableau for visualisation
 
