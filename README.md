@@ -20,6 +20,17 @@ For this project the following tools were usd:
 
 ## Data
 [Rockbuster Dataset](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+The following Data Set was provided:
+Fact Table:
+* Rental
+Dimension tables:
+* Payment
+* Inventory
+* Film
+* Customers
+* Address
+* Store
+* Staff
 
 ## Tableau Storyboard
 You can find the Tableau Storyboard for this project [here](https://public.tableau.com/app/profile/ruzanna.sargsyan/viz/Rockbuster_movie_rental_final/Story1?publish=yes![image](https://github.com/Ruzanna-Sar/MovieRentalSQLAnalysis/assets/145699655/ee99eaa4-cefe-4f3a-a75b-0a9acef9703d)
